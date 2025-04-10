@@ -2,6 +2,8 @@
 
 This dashboard analyzes daily steps, calorie intake, and health metrics using Preswald.
 
+Please preview the code in hello.py, when I was trying to publish the code, there was an internal server error but my preview was working. For this reason, I decided to deploy the app and its contents on this github page. 
+
 ## 📸 Dashboard Snapshots
 
 ### 1. 📊 Filtered Dataset View  
