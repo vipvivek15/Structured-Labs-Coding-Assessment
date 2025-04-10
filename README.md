@@ -14,17 +14,17 @@ This dashboard analyzes daily steps, calorie intake, and health metrics using Pr
 
 ---
 
-### 3. 📋 Step Threshold Filtering (Slider)  
+### 3. 📋 Activity Classification Table
 ![Slider Filter](photos/3.jpg)
 
 ---
 
-### 4. 🔥 High Calorie Days Query  
+### 4. 🔥 Step Threshold Filtering (Slider) and High Calorie Days Query  
 ![High Calorie Days](photos/4.jpg)
 
 ---
 
-### 5. 🥧 Activity Level Distribution (Pie Chart)  
+### 5. 🥧 Activity Level Distribution (Scatter Plot and Pie Chart)  
 ![Activity Level Pie Chart](photos/5.jpg)
 
 ---
